@@ -1,0 +1,3 @@
+⚠️ Compliance & Legal Disclaimer
+
+**Strictly for Educational and Authorized Penetration Testing Studies.** This software architecture is designed and published exclusively for academic research, malware engineering analysis, and defensive security logging evaluation. Deploying automated logging tools, environment scanners, or persistence modifications onto hardware infrastructures without receiving explicit, written, prior administrative consent from the verified network owner is strictly illegal under international cyber-crime compliance policies. The author assumes absolutely zero accountability for system damage, malicious deployment actions, or legal implications resulting from the utilization of this code infrastructure.
