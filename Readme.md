@@ -8,6 +8,9 @@ An advanced, high-performance asynchronous keystroke logger written in Python th
 ## ⚠️ CRITICAL WARNING: COMPILATION REQUIRED FOR DEPLOYMENT !!!
 **THIS RAW UTILITY MUST BE COMPILED INTO A STANDALONE BINARY FILE (.EXE) BEFORE DISTRIBUTION !!! ATTEMPTING TO RUN THE RAW .PY SCRIPT DIRECTLY ON A TARGET DEVICE IS INVALID. COMPILATION EMBEDS ALL CORE INTERPRETERS AND EXTERNAL MODULES DIRECTLY INTO THE BINARY. ONCE COMPILED, THE TARGET MACHINE DOES NOT REQUIRE PYTHON INSTALLED AT ALL TO EXECUTE THE PAYLOAD !!!**
 
+### ⚠️ Configuration Required
+Before compiling the Python source code, you must insert your Discord Webhook URL into lines 155 and 156. Failure to set this will prevent the payload from exfiltrating data to your intended destination.
+
 ---
 
 ## 🚀 DEPENDENCY ANALYSIS & STABILITY !!!
