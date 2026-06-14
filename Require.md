@@ -1,0 +1,2 @@
+### ⚠️ Configuration Required
+Before compiling the Python source code, you must insert your Discord Webhook URL into lines 155 and 156. Failure to set this will prevent the payload from exfiltrating data to your intended destination.
