@@ -1,5 +1,5 @@
 
-# ⌨️ Hookem Keylogger (Discord Webhook Keylogger)
+# ⌨️ Hookep Keylogger (Discord Webhook Keylogger)
 
 An advanced, high-performance asynchronous keystroke logger written in Python that formats, structures, and exfiltrates target system data directly to a Discord channel via Webhooks as JSON file attachments. This repository showcases real-world implementations of multi-threaded race condition prevention, automated local environment reconnaissance, and fault-tolerant network transmission layer design.
 
